@@ -1,0 +1,31 @@
+# jemdoc: menu{menu}{index.html}
+= Ganesh Ajjanagadde
+
+~~~
+{}{img_left}{img/photo.jpg}{photo}{}
+I defended my [doc/phd_thesis.pdf Ph.D. thesis] titled *"Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications"* on April 15, 2020. I am now joining [https://snap.com Snap Inc.] as a security engineer.
+
+My graduate work in the [https://www.eecs.mit.edu EECS] department at [http://web.mit.edu/ MIT]
+was supervised jointly by [http://allegro.mit.edu/~gww/ Prof. Gregory Wornell] in the
+[http://www.rle.mit.edu/sia Signals, Information, and Algorithms Laboratory]
+within the Research Laboratory of Electronics ([http://www.rle.mit.edu/ RLE]),
+and [https://math.mit.edu/~cohn/ Prof. Henry Cohn], a senior principal researcher at Microsoft Research, New England and
+an adjunct professor in the [https://math.mit.edu/ MIT Department of Mathematics].
+
+Prior to this, I completed my undergraduate work in the
+[https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/course-6-2-electrical-eng-computer-science EECS 6-2]
+program at MIT. While an undergraduate, I worked with
+[http://ssg.mit.edu/~willsky/ Prof. Alan Willsky] during my freshman year.
+I also worked with
+[http://people.lids.mit.edu/yp/homepage/ Prof. Yury Polyanskiy], with whom I
+completed a
+[https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/eecs-super-urop/ 'Super' UROP].
+
+My research during graduate school spanned a wide range of mathematical problems,
+grouped nicely under the heading [https://icerm.brown.edu/programs/sp-s18/ point configurations].
+I thought about such questions in discrete spaces, especially Hamming space.
+Naturally, techniques for approaching such questions are varied, ranging over
+probability, combinatorics, and numerical computation. I found number theory
+useful for other perspectives on these questions, though I typically kept it in
+the background.
+~~~

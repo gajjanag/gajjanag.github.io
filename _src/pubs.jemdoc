@@ -1,0 +1,38 @@
+# jemdoc: menu{menu}{pubs.html}
+
+= Publications
+
+- G. Ajjanagadde and Y. Polyanskiy,
+"[doc/allerton15_renyi.pdf Adder MAC and estimates for Renyi entropy]", in
+/Proceedings of the 53rd Annual Allerton Conference on Communications, Control,
+and Computing,/ Allerton House, UIUC, Illinois, USA, Sep 29 - Oct 2 2015.
+
+- G. Ajjanagadde, C. Thrampoulidis, A. Yedidia, and G. Wornell,
+"[doc/mask.pdf Near-Optimal Coded Apertures for Imaging via Nazarov's Theorem]", in
+/2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP),/
+[https://arxiv.org/abs/1810.12871 arXiv:1810.12871] [https://ieeexplore.ieee.org/abstract/document/8682254
+ ICASSP], 2019.
+
+- G. Ajjanagadde and H. Cohn,
+"Linear Programming Bounds and Anticodes in Hamming Space", in preparation.
+
+- G. Ajjanagadde and H. Cohn,
+"New Lower Bounds for the Mean Squared Error of Vector Quantizers", in preparation.
+
+== Thesis
+
+- [https://www.eecs.mit.edu/academics-admissions/undergraduate-programs/6-p-meng-program M.Eng.] thesis,
+"[doc/meng_thesis.pdf A Learning Hierarchy for Classification and Regression]".
+
+- [https://www.eecs.mit.edu/academics-admissions/graduate-program/degree-programs Ph.D.] thesis,
+"[doc/phd_thesis.pdf Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications]".
+
+== Project Reports
+
+- G. Ajjanagadde, S. Jain, and J. Thomas,
+"[doc/6111_proj_report.pdf Automatic Projector Tilt Compensation System]",
+final project for MIT's "Introductory Digital Systems Laboratory" class
+([http://web.mit.edu/6.111/www/f2014/index.html 6.111]). For a wonderfully
+amusing application of the phenomenon here ([https://en.wikipedia.org/wiki/3D_projection perspective transformations]),
+check out a [http://numberphile.com/ Numberphile] [https://www.youtube.com/watch?v=ffvojZONF_A video] by
+[http://math.sfsu.edu/federico/ Prof. Ardila].

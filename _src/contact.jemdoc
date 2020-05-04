@@ -1,0 +1,17 @@
+# jemdoc: menu{menu}{contact.html}
+= Contact
+
+== Email
+~~~
+{}{raw}
+Email: <img class="email" src="img/email.png" alt="gajjanag@mit.edu"> <style> img.email { width:200px margin-bottom:500px } </style>
+~~~
+
+== PGP key
+
+- PGP key fingerprint:
+~~~
+C96A 848E 97C3 CEA2 AB72  5CE4 45F9 6A2D 3C36 FB1B
+~~~
+
+- [doc/pub.key PGP Public key]
