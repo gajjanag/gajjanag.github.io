@@ -12,7 +12,6 @@ hobbies.jemdoc
 .PHONY: doc
 doc: ~/Dropbox/cv_abbrev/cv_abbrev.pdf \
 ~/doc/papers/renyi_information/allerton_paper.pdf \
-~/doc/papers/renyi_information/talk/allerton15.pdf \
 ~/doc/6111_proj_report/proj_report.pdf \
 ~/Dropbox/phd_thesis/thesis/main.pdf \
 ~/doc/meng/thesis/main.pdf \
@@ -21,7 +20,6 @@ doc: ~/Dropbox/cv_abbrev/cv_abbrev.pdf \
 	mkdir -p ../doc
 	rsync ~/Dropbox/cv_abbrev/cv_abbrev.pdf ../doc/cv.pdf
 	rsync ~/doc/papers/renyi_information/allerton_paper.pdf ../doc/allerton15_renyi.pdf
-	rsync ~/doc/papers/renyi_information/talk/allerton15.pdf ../doc/allerton15_renyi_slides.pdf
 	rsync ~/doc/6111_proj_report/proj_report.pdf ../doc/6111_proj_report.pdf
 	rsync ~/.keys/mypub.key ../doc/pub.key
 	rsync ~/Dropbox/phd_thesis/thesis/main.pdf ../doc/phd_thesis.pdf
