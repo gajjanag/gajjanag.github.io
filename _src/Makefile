@@ -5,7 +5,6 @@ all: html doc
 html: index.jemdoc \
 contact.jemdoc \
 pubs.jemdoc \
-talks.jemdoc \
 hobbies.jemdoc
 	./jemdoc *.jemdoc
 	mv *.html ..

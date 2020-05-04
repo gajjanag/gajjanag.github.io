@@ -5,7 +5,7 @@
 {}{img_left}{img/photo.jpg}{photo}{}
 I defended my [doc/phd_thesis.pdf Ph.D. thesis] titled *"Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications"* on April 15, 2020. I am now joining [https://snap.com Snap Inc.] as a security engineer.
 
-My graduate work in the [https://www.eecs.mit.edu EECS] department at [http://web.mit.edu/ MIT]
+My graduate work in the Electrical Engineering and Computer Science ([https://www.eecs.mit.edu EECS]) department at [http://web.mit.edu/ MIT]
 was supervised jointly by [http://allegro.mit.edu/~gww/ Prof. Gregory Wornell] in the
 [http://www.rle.mit.edu/sia Signals, Information, and Algorithms Laboratory]
 within the Research Laboratory of Electronics ([http://www.rle.mit.edu/ RLE]),
@@ -25,7 +25,5 @@ My research during graduate school spanned a wide range of mathematical problems
 grouped nicely under the heading [https://icerm.brown.edu/programs/sp-s18/ point configurations].
 I thought about such questions in discrete spaces, especially Hamming space.
 Naturally, techniques for approaching such questions are varied, ranging over
-probability, combinatorics, and numerical computation. I found number theory
-useful for other perspectives on these questions, though I typically kept it in
-the background.
+probability, combinatorics, number theory, and numerical computation.
 ~~~
