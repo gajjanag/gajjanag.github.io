@@ -3,7 +3,15 @@
 
 ~~~
 {}{img_left}{img/photo.jpg}{photo}{}
-I defended my [doc/phd_thesis.pdf Ph.D. thesis] titled *"Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications"* on April 15, 2020. I am now a security/privacy engineer at [https://snap.com Snap Inc.]. At Snap, I work on end to end encryption as well as privacy preserving ads solutions.
+I am a power and performance engineer at Apple working on Siri, responsible for
+making Siri run fast while not consuming too much power. I am especially
+interested in efficient algorithms that make great use of available hardware.
+
+Before joining Apple, I was a security/privacy engineer at [https://snap.com Snap Inc.].
+At Snap, I work on end to end encryption, privacy preserving ads solutions, and
+other problems at the intersection of cryptography and software engineering at scale.
+
+Before joining industry, I defended my [doc/phd_thesis.pdf Ph.D. thesis] titled *"Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications"* on April 15, 2020.
 
 My graduate work in the Electrical Engineering and Computer Science ([https://www.eecs.mit.edu EECS]) department at [http://web.mit.edu/ MIT]
 was supervised jointly by [http://allegro.mit.edu/~gww/ Prof. Gregory Wornell] in the
