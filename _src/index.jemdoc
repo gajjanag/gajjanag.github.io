@@ -3,7 +3,14 @@
 
 ~~~
 {}{img_left}{img/photo.jpg}{photo}{}
-I am a power and performance engineer at Apple working on Siri, responsible for
+I am a software engineer working in AI SW-HW codesign at Meta.
+Broadly, I work on
+- performance optimization for Meta's proprietary AI accelerator [https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/ MTIA].
+- codesign novel ML models/algorithms to make efficient use of HW (e.g., 2nd order optimizers such as [https://arxiv.org/abs/1802.09568 Shampoo])
+- performance optimization for existing training workloads (mostly ranking/recommendation) on GPU
+- performance modeling/projection for future GPU, MTIA above
+
+Prior to this, I was a power and performance engineer at Apple working on Siri, responsible for
 making Siri run fast while not consuming too much power. I am especially
 interested in efficient algorithms that make great use of available hardware.
 
