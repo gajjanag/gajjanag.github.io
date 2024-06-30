@@ -6,7 +6,7 @@ html: index.jemdoc \
 contact.jemdoc \
 pubs.jemdoc \
 hobbies.jemdoc
-	./jemdoc *.jemdoc
+	jemdoc *.jemdoc
 	mv *.html ..
 
 .PHONY: doc
