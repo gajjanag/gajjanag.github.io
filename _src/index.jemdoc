@@ -5,8 +5,8 @@
 {}{img_left}{img/photo.jpg}{photo}{}
 I am a software engineer working in AI SW-HW codesign at Meta.
 Broadly, I work on
-- performance optimization for Meta's proprietary AI accelerator [https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/ MTIA].
-- codesign novel ML models/algorithms to make efficient use of HW (e.g., 2nd order optimizers such as [https://arxiv.org/abs/1802.09568 Shampoo])
+- numerical algorithm codesign and performance optimization for Meta's proprietary AI accelerator [https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/ MTIA].
+- codesign novel ML models/algorithms to make efficient use of HW (e.g., 2nd order optimizers such as [https://arxiv.org/abs/1802.09568 Shampoo] that won AlgoPerf contest)
 - performance optimization for existing training workloads (mostly ranking/recommendation) on GPU
 - performance modeling/projection for future GPU, MTIA above
 
