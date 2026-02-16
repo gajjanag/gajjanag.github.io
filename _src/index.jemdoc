@@ -7,7 +7,7 @@
 I am a research scientist working on low precision numerics and algorithms at Nvidia.
 
 Previously, I was a software engineer working in AI SW-HW codesign at Meta.
-Broadly, I work on
+Broadly, I worked on
 - numerical algorithm codesign and performance optimization for Meta's proprietary AI accelerator [https://ai.meta.com/blog/next-generation-meta-training-inference-accelerator-AI-MTIA/ MTIA].
 - codesign novel ML models/algorithms to make efficient use of HW (e.g., 2nd order optimizers such as [https://arxiv.org/abs/1802.09568 Shampoo] that won AlgoPerf contest)
 - performance optimization for existing training workloads (mostly ranking/recommendation) on GPU
@@ -18,7 +18,7 @@ making Siri run fast while not consuming too much power. I am especially
 interested in efficient algorithms that make great use of available hardware.
 
 Before joining Apple, I was a security/privacy engineer at [https://snap.com Snap Inc.].
-At Snap, I work on end to end encryption, privacy preserving ads solutions, and
+At Snap, I worked on end to end encryption, privacy preserving ads solutions, and
 other problems at the intersection of cryptography and software engineering at scale.
 
 Before joining industry, I defended my [doc/phd_thesis.pdf Ph.D. thesis] titled *"Fourier Analysis on the Hypercube, the Coefficient Problem, and Applications"* on April 15, 2020.
