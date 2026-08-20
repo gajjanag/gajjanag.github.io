@@ -8,6 +8,10 @@
 - Nvidia
 "[https://arxiv.org/abs/2512.20856 NVIDIA Nemotron 3: Efficient and Open Intelligence]", 2025.
 
+- Meta
+"[https://ieeexplore.ieee.org/abstract/document/11617469 MTIA 300: Meta's First Training Chip Featuring Built-in NICs and Collective Offloading Engines]", in
+ACM/IEEE 53rd Annual International Symposium on Computer Architecture (ISCA) 2026.
+
 - G. Ajjanagadde and Y. Polyanskiy,
 "[doc/allerton15_renyi.pdf Adder MAC and estimates for Renyi entropy]", in
 /Proceedings of the 53rd Annual Allerton Conference on Communications, Control,
